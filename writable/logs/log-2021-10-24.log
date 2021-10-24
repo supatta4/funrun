@@ -1,0 +1,5 @@
+CRITICAL - 2021-10-24 07:07:37 --> Cannot declare class App\Controllers\Adddata, because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2021-10-24 07:16:24 --> Unknown column 'id' in 'where clause'
+ERROR - 2021-10-24 07:44:27 --> Unknown column 'id' in 'where clause'
