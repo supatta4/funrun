@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+body{
+    font-family: 'Kanit', sans-serif;
+}
+a.nav-home{
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+a.nav-home:hover{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+.navbar-light .navbar-nav .nav-link {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+.bg-navbar{
+    background-color: rgba(252, 136, 68, 0.521);
+}
